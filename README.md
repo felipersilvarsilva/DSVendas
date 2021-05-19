@@ -7,7 +7,7 @@ development web, site de vendas com Reactjs
 ## Realização
 
 [![Felipe no Instagram](https://github.com/felipe-rodrigues-s/DSVvendas/blob/master/icon/ig-icon.png)](https://instagram.com/)
-[![Felipe no Linkdin ](https://github.com/felipe-rodrigues-s/DSVvendas/blob/master/icon/lkdin-icon.png)](https://www.linkedin.com/)
+[![Felipe no Linkdin ](https://github.com/felipe-rodrigues-s/DSVvendas/blob/master/icon/linkedin-icon.png)](https://www.linkedin.com/)
 
 ## Guias de instalação das ferramentas
 
