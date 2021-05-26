@@ -1,18 +1,18 @@
 # DSVvendas
 
-development web, Dashboard de vendas, com Reactjs
+development web, Dashboard de vendas, com React.js
 
 # Semana Spring React
 
-- front end
-- back end
+- front-end
+- back-end
 
 ## Midia Social
 
 [![Felipe no Instagram](https://github.com/felipe-rodrigues-s/DSVvendas/blob/master/icon/ig-icon.png)](https://www.instagram.com/felipersilvarsilva/)
 [![Felipe no Linkdin ](https://github.com/felipe-rodrigues-s/DSVvendas/blob/master/icon/linkedin-icon.png)](https://www.linkedin.com/in/felipe-rodrigues-da-silva-650956161/)
 
-# Criar projeto Spring initializr com as seguintes dependencias:
+# Criar projeto Spring initializes com as seguintes dependencias:
 
 - WEB
 - JPA

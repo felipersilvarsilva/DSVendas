@@ -18,11 +18,11 @@ const Footer = () => {
             <br />
             Evento promovido pela escola DevSuperior:{" "}
             <a
-              href="https://www.instagram.com/felipersilvarsilva/"
+              href="https://instagram.com/devsuperior.ig"
               target="_blank"
               rel="noreferrer"
             >
-              @felipersilvarsilva.ig
+              @devsuperior.ig
             </a>
           </small>
         </p>
