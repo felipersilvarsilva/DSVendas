@@ -1,9 +1,10 @@
 {
-  "name": "devsuperior" ,
+  "name": "devsuperior",
   "version": "1.0.0",
   "description": "projeto web de vendas com Reactjs",
   "main": "index.js",
   "repository": "https://github.com/felipe-rodrigues-s/",
   "author": "Felipe <1felipersilva1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
