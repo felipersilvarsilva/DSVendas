@@ -10,6 +10,7 @@ type ChartData = {
 };
 
 const DonutChart = () => {
+  //data
   //Hook: useState
   const [chartData, setChartData] = useState<ChartData>({
     labels: [],
@@ -27,6 +28,7 @@ const DonutChart = () => {
     });
   }, []);
 
+  //render
   const options = {
     legend: {
       show: true,
