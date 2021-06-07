@@ -33,8 +33,12 @@ development web, Dashboard de vendas, com React.js
 
 # Tecnologias
 
+- React
 - Bootstrap
 - Apexcharts
+- React Router DOM
+- Axios
+- Date-fns
 
 # Deploy
 
