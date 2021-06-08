@@ -1,4 +1,4 @@
-# DSVvendas
+# DSVendas
 
 development web, Dashboard de vendas, com React.js
 
